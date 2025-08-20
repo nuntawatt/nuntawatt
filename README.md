@@ -1,7 +1,23 @@
-<!-- Wave header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlhYjVkNjdlZmY2ZDk4MmY3MDRmNmIxMGE2YmM5NmM3MmFjNjEwZiZjdD1n/sIIhZliB2McAo/giphy.gif" width="100%" height="150"/>
-</p>
+<!-- Header: Minimal Classic Wave -->
+<div align="center">
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#grad1)" opacity="0.15"/>
+  <path fill="url(#grad1)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,120 L0,120 Z;
+      M0,60 C150,30 350,90 600,60 C850,30 1050,90 1200,60 L1200,120 L0,120 Z;
+      M0,60 C150,90 350,30 600,60 C850,90 1050,30 1200,60 L1200,120 L0,120 Z" />
+  </path>
+</svg>
+</div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
