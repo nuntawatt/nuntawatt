@@ -18,11 +18,6 @@
   🌸 Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast 🌸
 </p>
 
-<p align="center">
-  <a href="https://github.com/nuntawatt">
-    <img src="https://komarev.com/ghpvc/?username=nuntawatt&label=visitors&style=flat&color=22c55e" alt="profile views"/>
-  </a>
-</p>
 
 ---
 
