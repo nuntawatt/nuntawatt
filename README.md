@@ -27,11 +27,11 @@ My journey in web development has just begun, focusing on **frontend** and **bac
 with a growing interest in **UI/UX design** and **full-stack development**.  
 (づ｡◕‿‿◕｡)づ
 
-<p>
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" />
+<p align="center">
+  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_ID/giphy.gif" width="100" alt="Chibi wave"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_NEKO_ID/giphy.gif" width="100" alt="Neko anime"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_KAWAII_ID/giphy.gif" width="100" alt="Kawaii anime"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_CUTENESS_ID/giphy.gif" width="100" alt="Cute anime"/>
 </p>
 
 ---
