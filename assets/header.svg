@@ -1,48 +1,57 @@
-<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="bgHeader" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#fde2e4"/>
-      <stop offset="100%" stop-color="#e9d5ff"/>
+    <!-- BG: gradient (เข้มด้านบน -> อ่อนด้านล่าง) -->
+    <linearGradient id="bgHeader" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#C084FC"/>  <!-- ม่วงเข้ม -->
+      <stop offset="50%"  stop-color="#F472B6"/>  <!-- ชมพูสด -->
+      <stop offset="100%" stop-color="#FBCFE8"/>  <!-- ชมพูอ่อน -->
     </linearGradient>
+
+    <!-- Wave -->
     <linearGradient id="waveHeader" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#fb7185"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
+      <stop offset="0%"   stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
     </linearGradient>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="160" fill="url(#bgHeader)" opacity="0.45"/>
+  <!-- BG -->
+  <rect width="1200" height="170" fill="url(#bgHeader)" />
 
   <!-- wave -->
-  <path fill="url(#waveHeader)" opacity="0.75">
+  <path fill="url(#waveHeader)" opacity="0.8">
     <animate attributeName="d" dur="10s" repeatCount="indefinite"
       values="
-      M0,90 C240,120 420,60 600,90 C780,120 990,60 1200,90 L1200,160 L0,160 Z;
-      M0,90 C240,60  420,120 600,85 C780,60  990,120 1200,80 L1200,160 L0,160 Z;
-      M0,90 C240,120 420,60 600,90 C780,120 990,60 1200,90 L1200,160 L0,160 Z"/>
+      M0,95 C240,125 420,65 600,95 C780,125 990,65 1200,95 L1200,170 L0,170 Z;
+      M0,95 C240,65  420,125 600,90 C780,65  990,125 1200,88 L1200,170 L0,170 Z;
+      M0,95 C240,125 420,65 600,95 C780,125 990,65 1200,95 L1200,170 L0,170 Z"/>
   </path>
 
-  <!-- falling petals -->
-  <g fill="#fb7185" opacity="0.8">
-    <ellipse cx="150" cy="-10" rx="8" ry="5">
-      <animate attributeName="cy" values="-10;170" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="150;110;180;140" dur="8s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" from="0 150 0" to="360 150 0" dur="8s" repeatCount="indefinite"/>
+  <!-- Sakura petals -->
+  <g fill="#FB7185" opacity="0.9">
+    <ellipse cx="120" cy="-15" rx="8" ry="5">
+      <animate attributeName="cy" values="-15;185" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="120;90;150;110" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 120 0" to="360 120 0" dur="8s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="420" cy="-20" rx="7" ry="4">
-      <animate attributeName="cy" values="-20;170" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="420;460;400;440" dur="10s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" from="0 420 0" to="-360 420 0" dur="10s" repeatCount="indefinite"/>
+    <ellipse cx="300" cy="-25" rx="7" ry="4">
+      <animate attributeName="cy" values="-25;185" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="300;340;280;320" dur="10s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 300 0" to="-360 300 0" dur="10s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="780" cy="-15" rx="9" ry="5">
-      <animate attributeName="cy" values="-15;170" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="780;740;800;760" dur="9s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" from="0 780 0" to="360 780 0" dur="9s" repeatCount="indefinite"/>
+    <ellipse cx="520" cy="-10" rx="9" ry="5">
+      <animate attributeName="cy" values="-10;185" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="520;480;540;500" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 520 0" to="360 520 0" dur="9s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="1050" cy="-25" rx="6" ry="4">
-      <animate attributeName="cy" values="-25;170" dur="11s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="1050;1080;1030;1070" dur="11s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" from="0 1050 0" to="-360 1050 0" dur="11s" repeatCount="indefinite"/>
+    <ellipse cx="740" cy="-30" rx="6" ry="4">
+      <animate attributeName="cy" values="-30;185" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="740;770;720;760" dur="11s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 740 0" to="-360 740 0" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="980" cy="-20" rx="8" ry="5">
+      <animate attributeName="cy" values="-20;185" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="980;940;1000;960" dur="12s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 980 0" to="360 980 0" dur="12s" repeatCount="indefinite"/>
     </ellipse>
   </g>
 </svg>
