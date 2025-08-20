@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="40" /> About Me
+### About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
 with a growing interest in **UI/UX design** and **full-stack development**.  
