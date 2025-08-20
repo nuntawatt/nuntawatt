@@ -1,6 +1,6 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banner/main/wave.svg" width="100%" alt="animated banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlhYjVkNjdlZmY2ZDk4MmY3MDRmNmIxMGE2YmM5NmM3MmFjNjEwZiZjdD1n/sIIhZliB2McAo/giphy.gif" width="100%" height="150"/>
 </p>
 
 <h1 align="center">
