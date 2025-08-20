@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🌸 Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast 🌸
+  Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast
 </p>
 
 
