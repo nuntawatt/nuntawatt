@@ -9,7 +9,7 @@
 
 ---
 
-### 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) About Me
+### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 
 My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
