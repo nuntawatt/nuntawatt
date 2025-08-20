@@ -63,7 +63,6 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 ### Tools & Workflow
 - **Git**, GitHub, VS Code
 - Figma (prototype / component), Postman
-- Clean code เบื้องต้น, semantic commit, README ที่อ่านง่าย
 
 ### Soft Skills
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ, ทำงานเป็นทีม, เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
