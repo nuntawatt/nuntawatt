@@ -1,6 +1,6 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14b8a6,100:6366f1&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=150&section=footer"/>
 </p>
 
 <h1 align="center">
