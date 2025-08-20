@@ -1,50 +1,59 @@
-<h1 align="center">
-  Hi (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ <br/>
-  My name is <span style="color:#22c55e;">Nuntawat Sae-huam</span>
-</h1>
-
-<h3 align="center">
-  🌱 Computer Science Student • 🚀 Future Full-Stack Developer • 🎨 UI/UX Enthusiast
-</h3>
+<h1 align="center">Hi there 👋, I'm Nuntawat Saehuam</h1>
+<h3 align="center">💻 Backend Developer | 🌱 Computer Science Student | 🎨 UI/UX Enthusiast</h3>
 
 ---
 
-### 👋 About Me
-Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
-
-My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
-with a growing interest in **UI/UX design** and **full-stack development**.  
-
-(づ｡◕‿‿◕｡)づ
+## 🙋‍♂️ About Me
+- 🎓 I'm a **Computer Science student** passionate about coding and design.  
+- 🌟 Currently exploring **Full-Stack Development** (Frontend + Backend).  
+- ✨ Interested in **UI/UX design** and building user-friendly applications.  
+- 🚀 Love experimenting with new technologies.  
 
 ---
 
-### 🌍 Quick Info
-- 🏠 Based in **Khon Kaen, Thailand**  
-- 🖥️ Portfolio: [MyPortfolio](http://nuntawatt.github.io/nanthawat.github.io/)  
-- ✉️ Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)  
-- 🧠 Currently learning: **React • Next.js • Node.js**  
-- 👥 Open to collaborate on beginner-friendly open-source projects  
+## 🛠️ Tech Stack
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
+
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,vite,mongodb,mysql,firebase,git,github,py,django,php,cs,dart,flutter,docker,pytorch" />
-</p>
+## 📌 Featured Projects
+- 🌐 [**WeGoSystem-Frontend**](https://github.com/nuntawatt/WeGoSystem-Frontend) – Social platform to find friends for activities.  
+- 🎨 [**Profile-Theme**](https://github.com/nuntawatt/Profile-Theme) – Personal profile theme with UI/UX design.  
+- ⚡ [**Profile-App**](https://github.com/nuntawatt/Profile-App) – Portfolio-style app project.  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuntawatt&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuntawatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nuntawatt&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuntawatt&theme=tokyonight" alt="GitHub streak" width="48%"/>
 </p>
 
 ---
 
-### 🌐 Socials
-<p align="left">
-  <a href="https://github.com/nuntawatt"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/nuntawat.morgorn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-</p>
+## 📫 Connect with Me
+- 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/nuntawatt](#)  
+- 📷 Instagram: [instagram.com/yourusername](#)  
+
+---
+
+⭐️ From [nuntawatt](https://github.com/nuntawatt)
