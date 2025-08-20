@@ -1,0 +1,48 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bgHeader" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fde2e4"/>
+      <stop offset="100%" stop-color="#e9d5ff"/>
+    </linearGradient>
+    <linearGradient id="waveHeader" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fb7185"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="160" fill="url(#bgHeader)" opacity="0.45"/>
+
+  <!-- wave -->
+  <path fill="url(#waveHeader)" opacity="0.75">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+      M0,90 C240,120 420,60 600,90 C780,120 990,60 1200,90 L1200,160 L0,160 Z;
+      M0,90 C240,60  420,120 600,85 C780,60  990,120 1200,80 L1200,160 L0,160 Z;
+      M0,90 C240,120 420,60 600,90 C780,120 990,60 1200,90 L1200,160 L0,160 Z"/>
+  </path>
+
+  <!-- falling petals -->
+  <g fill="#fb7185" opacity="0.8">
+    <ellipse cx="150" cy="-10" rx="8" ry="5">
+      <animate attributeName="cy" values="-10;170" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="150;110;180;140" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 150 0" to="360 150 0" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="420" cy="-20" rx="7" ry="4">
+      <animate attributeName="cy" values="-20;170" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="420;460;400;440" dur="10s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 420 0" to="-360 420 0" dur="10s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="780" cy="-15" rx="9" ry="5">
+      <animate attributeName="cy" values="-15;170" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="780;740;800;760" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 780 0" to="360 780 0" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1050" cy="-25" rx="6" ry="4">
+      <animate attributeName="cy" values="-25;170" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="1050;1080;1030;1070" dur="11s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 1050 0" to="-360 1050 0" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>
