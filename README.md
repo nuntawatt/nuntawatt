@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🌱 Computer Science Student • 🚀 Future Full-Stack Developer • 🎨 UI/UX Enthusiast
+  Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast
 </h3>
 
 ---
@@ -25,7 +25,6 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 - ✉️ Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)
 - 🧠 Currently learning: **React • Next.js • Node.js**
 - 👥 Open to collaborate on beginner-friendly open-source projects
-- 💬 Motto: `(ง •̀_•́)ง Always curious and open to new challenges`
 
 ---
 
