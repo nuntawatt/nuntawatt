@@ -1,6 +1,6 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=22c55e&height=100&section=header"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-banner/main/wave.svg" width="100%" alt="animated banner"/>
 </p>
 
 <h1 align="center">
