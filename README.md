@@ -9,7 +9,6 @@
   Hi, I'm <span style="color:#22c55e;">Nuntawat Saehuam</span>
 </h1>
 
-<!-- Typing SVG: cute intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UI%2FUX+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8" alt="Typing SVG"/>
 </p>
