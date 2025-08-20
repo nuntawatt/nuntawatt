@@ -1,35 +1,7 @@
-<!-- Header: Soft Double Waves -->
-<div align="center">
-<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="gradA" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#22c55e"/>
-      <stop offset="50%" stop-color="#10b981"/>
-      <stop offset="100%" stop-color="#3b82f6"/>
-    </linearGradient>
-    <linearGradient id="gradB" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#22c55e"/>
-      <stop offset="100%" stop-color="#6366f1"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="140" fill="url(#gradA)" opacity="0.10"/>
-  <path fill="url(#gradA)" opacity="0.85">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-      M0,70 C200,100 400,40 600,70 C800,100 1000,40 1200,70 L1200,140 L0,140 Z;
-      M0,70 C200,40 400,100 600,70 C800,40 1000,100 1200,70 L1200,140 L0,140 Z;
-      M0,70 C200,100 400,40 600,70 C800,100 1000,40 1200,70 L1200,140 L0,140 Z"/>
-  </path>
-  <path fill="url(#gradB)" opacity="0.55">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
-      values="
-      M0,90 C250,120 450,60 650,90 C850,120 1050,60 1200,90 L1200,140 L0,140 Z;
-      M0,90 C250,60 450,120 650,90 C850,60 1050,120 1200,90 L1200,140 L0,140 Z;
-      M0,90 C250,120 450,60 650,90 C850,120 1050,60 1200,90 L1200,140 L0,140 Z"/>
-  </path>
-</svg>
-</div>
-
+<!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/header.svg" width="100%" alt="sakura header"/>
+</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
@@ -206,7 +178,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   <img src="https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif" width="120" />
 </p>
 
-<!-- Wave footer -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:14b8a6,100:22c55e&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/footer.svg" width="100%" alt="sakura footer"/>
 </p>
