@@ -1,24 +1,23 @@
 <svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
-    <!-- BG: gradient (เข้มด้านบน -> อ่อนด้านล่าง) -->
+    <!-- BG: เข้มด้านบน -> อ่อนด้านล่าง (ทึบ 100%) -->
     <linearGradient id="bgHeader" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#C084FC"/>  <!-- ม่วงเข้ม -->
-      <stop offset="50%"  stop-color="#F472B6"/>  <!-- ชมพูสด -->
-      <stop offset="100%" stop-color="#FBCFE8"/>  <!-- ชมพูอ่อน -->
+      <stop offset="0%"   stop-color="#A78BFA"/>
+      <stop offset="55%"  stop-color="#F9A8D4"/>
+      <stop offset="100%" stop-color="#FDE2E4"/>
     </linearGradient>
-
     <!-- Wave -->
     <linearGradient id="waveHeader" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%"   stop-color="#EC4899"/>
-      <stop offset="100%" stop-color="#A78BFA"/>
+      <stop offset="0%"   stop-color="#F9A8D4"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
     </linearGradient>
   </defs>
 
-  <!-- BG -->
-  <rect width="1200" height="170" fill="url(#bgHeader)" />
+  <!-- BG (ทึบ ไม่ใส) -->
+  <rect width="1200" height="170" fill="url(#bgHeader)"/>
 
   <!-- wave -->
-  <path fill="url(#waveHeader)" opacity="0.8">
+  <path fill="url(#waveHeader)" opacity="0.85">
     <animate attributeName="d" dur="10s" repeatCount="indefinite"
       values="
       M0,95 C240,125 420,65 600,95 C780,125 990,65 1200,95 L1200,170 L0,170 Z;
@@ -27,7 +26,7 @@
   </path>
 
   <!-- Sakura petals -->
-  <g fill="#FB7185" opacity="0.9">
+  <g fill="#FDA4AF" opacity="0.9">
     <ellipse cx="120" cy="-15" rx="8" ry="5">
       <animate attributeName="cy" values="-15;185" dur="8s" repeatCount="indefinite"/>
       <animate attributeName="cx" values="120;90;150;110" dur="8s" repeatCount="indefinite"/>
