@@ -25,7 +25,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ---
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" /> Quick Info
+### Quick Info
 - 🏠 Based in **Khon Kaen, Thailand**
 - 🖥️ Portfolio: [Portfolio](http://nuntawatt.github.io/nanthawat.github.io/)
 - ✉️ Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)
@@ -35,7 +35,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ---
 
-## <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="36" /> ความสามารถ (Skills & Abilities)
+## ความสามารถ (Skills & Abilities)
 
 ### 🧩 Frontend
 - HTML5, CSS3, **JavaScript**, **TypeScript**
@@ -81,7 +81,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ---
 
-### <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="36" /> Socials
+### Socials
 <p align="left">
   <a href="https://www.github.com/nuntawatt" target="_blank" rel="noreferrer">
     <picture>
