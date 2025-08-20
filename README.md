@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
   <br/>
-  Hi, I'm <span style="color:#22c55e;">Nuntawat Sae-huam</span>
+  Hi, I'm <span style="color:#22c55e;">Nuntawat Saehuam</span>
 </h1>
 
 <!-- Typing SVG: cute intro -->
@@ -28,10 +28,10 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 (づ｡◕‿‿◕｡)づ
 
 <p>
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="85" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="85" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="85" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" />
 </p>
 
 ---
