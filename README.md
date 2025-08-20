@@ -28,11 +28,12 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 (づ｡◕‿‿◕｡)づ
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_WAVE/giphy.gif" width="100" alt="Cute chibi waving"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_SMILE/giphy.gif" width="100" alt="Chibi smiling"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_DANCE/giphy.gif" width="100" alt="Chibi dancing"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_CHILL/giphy.gif" width="100" alt="Chibi chill"/>
+  <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="120" alt="Chibi waving"/>
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="120" alt="Anime happy"/>
+  <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="120" alt="Cute anime girl"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120" alt="Kawaii chibi hello"/>
 </p>
+
 
 ---
 
