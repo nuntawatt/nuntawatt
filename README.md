@@ -29,9 +29,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_ID/giphy.gif" width="100" alt="Chibi wave"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_NEKO_ID/giphy.gif" width="100" alt="Neko anime"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_KAWAII_ID/giphy.gif" width="100" alt="Kawaii anime"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_CUTENESS_ID/giphy.gif" width="100" alt="Cute anime"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_ID/giphy.gif" width="100" alt="anime chibi"/>
 </p>
 
 ---
