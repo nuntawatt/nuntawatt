@@ -28,8 +28,10 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 (づ｡◕‿‿◕｡)づ
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_ID/giphy.gif" width="100" alt="Chibi wave"/>
-  <img src="https://media.giphy.com/media/EXAMPLE_ID/giphy.gif" width="100" alt="anime chibi"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_WAVE/giphy.gif" width="100" alt="Cute chibi waving"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_SMILE/giphy.gif" width="100" alt="Chibi smiling"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_DANCE/giphy.gif" width="100" alt="Chibi dancing"/>
+  <img src="https://media.giphy.com/media/EXAMPLE_CHIBI_CHILL/giphy.gif" width="100" alt="Chibi chill"/>
 </p>
 
 ---
