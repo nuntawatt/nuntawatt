@@ -141,7 +141,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ---
 
-### <img src="https://media.giphy.com/media/Xp98Vi5OBvhXpwA0Zp/giphy.gif" width="36" /> GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nuntawatt&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuntawatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" alt="top langs"/>
