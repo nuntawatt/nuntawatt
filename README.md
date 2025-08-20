@@ -1,6 +1,6 @@
 <!-- 🌸 Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/header.svg" width="100%" alt="sakura header"/>
+  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/header.svg?v=2" width="100%" alt="sakura header"/>
 </p>
 
 <h1 align="center">
