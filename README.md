@@ -1,4 +1,4 @@
-<!-- 🌸 Header -->
+<!-- Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/header.svg?v=2" width="100%" alt="sakura header"/>
 </p>
@@ -156,11 +156,11 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   <img src="https://github-profile-trophy.vercel.app/?username=nuntawatt&theme=onestar&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
----
+
 
 <!-- Fun collapsible section -->
 <details>
-  <summary>💡 Little things about me</summary>
+  <summary> Little things about me</summary>
   <br/>
   <ul>
     <li>ชอบลองของใหม่ ๆ บน Frontend และออกแบบ UI ที่ใช้งานง่าย</li>
@@ -179,5 +179,5 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/header.svg" width="100%" alt="sakura header"/>
+  <img src="https://raw.githubusercontent.com/nuntawatt/nuntawatt/main/assets/footer.svg?v=2" width="100%" alt="sakura footer"/>
 </p>
