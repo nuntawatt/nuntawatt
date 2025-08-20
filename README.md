@@ -36,7 +36,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ### Quick Info
 - Based in **Khon Kaen, Thailand**
-- Portfolio: [Portfolio]([http://nuntawatt.github.io/nanthawat.github.io/](https://nuntawatt.github.io/my-cv/))
+- Portfolio: [Portfolio (PDF)](https://nuntawatt.github.io/my-cv/cv.pdf)
 - Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)
 - Learning: **React • Next.js • Node.js**
 - Open to collaborate on beginner-friendly open-source projects
