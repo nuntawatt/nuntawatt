@@ -35,42 +35,42 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 ---
 
 ### Quick Info
-- 🏠 Based in **Khon Kaen, Thailand**
-- 🖥️ Portfolio: [Portfolio](http://nuntawatt.github.io/nanthawat.github.io/)
-- ✉️ Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)
-- 🧠 Learning: **React • Next.js • Node.js**
-- 👥 Open to collaborate on beginner-friendly open-source projects
+- Based in **Khon Kaen, Thailand**
+- Portfolio: [Portfolio](http://nuntawatt.github.io/nanthawat.github.io/)
+- Contact: [moragon.2546@gmail.com](mailto:moragon.2546@gmail.com)
+- Learning: **React • Next.js • Node.js**
+- Open to collaborate on beginner-friendly open-source projects
 
 ---
 
 ## ความสามารถ (Skills & Abilities)
 
-### 🧩 Frontend
+### Frontend
 - HTML5, CSS3, **JavaScript**, **TypeScript**
 - **React**, **Next.js**, **Vite**
 - **Tailwind CSS**, **Bootstrap**
 - พื้นฐานการออกแบบ **UI/UX**, wireframe, component thinking
 
-### ⚙️ Backend
+### Backend
 - **Node.js**, Express, NestJS (พื้นฐาน)
 - RESTful API, JSON, auth เบื้องต้น (JWT/session)
 - Realtime พื้นฐาน (Socket.io – เริ่มต้น)
 
-### 🗄️ Database & Cloud
+###  Database & Cloud
 - **MongoDB**, **MySQL**, **Firebase**
 - Basic **Google Cloud** services
 
-### 🧰 Tools & Workflow
+### Tools & Workflow
 - **Git**, GitHub, VS Code
 - Figma (prototype / component), Postman
 - Clean code เบื้องต้น, semantic commit, README ที่อ่านง่าย
 
-### 🌟 Soft Skills
+### Soft Skills
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ, ทำงานเป็นทีม, เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
 
 ---
 
-### ✨ Tech
+### Tech
 
 <div align="left">
 
@@ -168,12 +168,13 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   </ul>
 </details>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" />
   <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="120" />
   <img src="https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif" width="120" />
 </p>
+
+---
 
 <!-- Footer -->
 <p align="center">
