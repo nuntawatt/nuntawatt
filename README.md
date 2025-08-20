@@ -158,9 +158,6 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   <img src="https://github-profile-trophy.vercel.app/?username=nuntawatt&theme=onestar&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
-
-
-<!-- Fun collapsible section -->
 <details>
   <summary> Little things about me</summary>
   <br/>
@@ -171,7 +168,6 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   </ul>
 </details>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" />
