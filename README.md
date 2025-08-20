@@ -17,7 +17,6 @@
   Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast
 </p>
 
-
 ---
 
 ### About Me
@@ -73,7 +72,7 @@ with a growing interest in **UI/UX design** and **full-stack development**.
 
 ### ✨ Tech
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="100"><b>Core Web</b></td>
     <td>
