@@ -153,9 +153,6 @@ with a growing interest in **UI/UX design** and **full-stack development**.
   <img src="https://streak-stats.demolab.com/?user=nuntawatt&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nuntawatt&theme=onestar&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
 
 --- 
 
