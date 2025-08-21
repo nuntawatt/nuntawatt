@@ -19,7 +19,7 @@
 
 ---
 
-### About Me
+<h2 style="color:#a78bfa;">🌸 About Me</h2>
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
 with a growing interest in **UI/UX design** and **full-stack development**. (づ｡◕‿‿◕｡)づ
