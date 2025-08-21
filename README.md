@@ -23,7 +23,7 @@
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
 with a growing interest in **UI/UX design** and **full-stack development**. (づ｡◕‿‿◕｡)づ
-<br/>
+<br><br><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="120" alt="Chibi waving"/>
