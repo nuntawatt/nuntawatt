@@ -35,7 +35,7 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Quick Info
 - Based in **Khon Kaen, Thailand**
-- Portfolio: [Portfolio](https://nuntawatt.github.io/my-cv/)
+- Portfolio: [CV](https://nuntawatt.github.io/my-cv/)
 - Contact: moragon.2546@gmail.com
 - Learning: **React • Next.js • Node.js**
 - Open to collaborate on beginner-friendly open-source projects
@@ -64,7 +64,6 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Soft Skills
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
-- ทำงานเป็นทีม
 - เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
 
 ---
@@ -72,7 +71,6 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 ### Tech
 
 <div align="left">
-
 <table>
   <tr>
     <td align="left" width="130" valign="top"><b>Core Web</b></td>
@@ -116,9 +114,7 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
     </td>
   </tr>
 </table>
-
 </div>
-
 
 ---
 
@@ -160,7 +156,7 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
   <summary> Little things about me</summary>
   <br/>
   <ul>
-    <li>ชอบลองของใหม่ ๆ บน Frontend และออกแบบ UI ที่ใช้งานง่าย</li>
+    <li>ชอบลองของใหม่ ๆ บน Frontend ออกแบบ UI ที่ใช้งานง่าย</li>
     <li>ตอนนี้กำลังฝึก Full-Stack ด้วย Next.js + Node.js</li>
     <li>กำลังสนใจ Realtime apps (Socket.io) และระบบ Auth</li>
   </ul>
