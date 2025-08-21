@@ -69,7 +69,7 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ---
 
-### -Tech-
+### Tech
 
 <div align="left">
 <table>
