@@ -20,9 +20,11 @@
 ---
 
 <h2 style="color:#a78bfa;">🌸 About Me</h2>
-Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
-My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
-with a growing interest in **UI/UX design** and **full-stack development**. (づ｡◕‿‿◕｡)づ
+<p>
+Hello! I’m a <b style="color:#22c55e;">Computer Science student</b> who enjoys experimenting with coding and design.  
+My journey in web development has just begun, focusing on <b style="color:#0ea5e9;">frontend</b> and <b style="color:#eab308;">backend</b> technologies,  
+with a growing interest in <b style="color:#f472b6;">UI/UX design</b> and <b style="color:#f97316;">full-stack development</b>. (づ｡◕‿‿◕｡)づ
+</p> 
 
 <p align="center">
   <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="120" alt="Chibi waving"/>
