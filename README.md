@@ -19,15 +19,11 @@
 
 ---
 
-### About Me 
-
-I’m a passionate **Computer Science student** who loves exploring both coding and design.  
-My journey in **web development** is just beginning, with a strong focus on building skills in both  
-**frontend** and **backend** technologies.  
-
-I’m also developing a deeper interest in **UI/UX design** and the path toward becoming a  
-well-rounded **full-stack developer**.  (づ｡◕‿‿◕｡)づ
-
+### About Me
+Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
+My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
+with a growing interest in **UI/UX design** and **full-stack development**. (づ｡◕‿‿◕｡)づ
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="120" alt="Chibi waving"/>
