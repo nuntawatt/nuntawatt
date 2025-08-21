@@ -42,8 +42,7 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ---
 
-## ความสามารถ (Skills & Abilities)
-
+### Skills & Abilities
 ### Frontend
 - HTML5, CSS3, **JavaScript**, **TypeScript**
 - **React**, **Next.js**, **Vite**
