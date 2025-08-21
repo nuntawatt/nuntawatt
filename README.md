@@ -63,7 +63,9 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 - Figma (prototype / component), Postman
 
 ### Soft Skills
-- ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ, ทำงานเป็นทีม, เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
+- ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
+- ทำงานเป็นทีม
+- เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
 
 ---
 
