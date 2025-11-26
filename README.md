@@ -139,20 +139,6 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuntawatt&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuntawatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" alt="top langs"/>
-</p>
-
-<!-- Extra flair -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nuntawatt&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
-</p>
-
-
---- 
-
 <details>
   <summary> Little things about me</summary>
   <br/>
