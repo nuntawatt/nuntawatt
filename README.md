@@ -51,9 +51,9 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 - **พื้นฐานการออกแบบ UI/UX, wireframe, component thinking**
 
 ### Backend
-- **Node.js, Express, NestJS **
+- **Node.js, Express, NestJS**
 - **RESTful API, JSON, Auth (JWT/session)**
-- **Realtime Socket.io, gRPC **
+- **Realtime Socket.io, gRPC**
 
 ###  Database & Cloud
 - **MongoDB, MySQL, Firebase**
