@@ -45,23 +45,23 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Skills & Abilities
 ### Frontend
-- HTML5, CSS3, **JavaScript**, **TypeScript**
-- **React**, **Next.js**, **Vite**
-- **Tailwind CSS**, **Bootstrap**
-- พื้นฐานการออกแบบ **UI/UX**, wireframe, component thinking
+- **HTML5, CSS3, JavaScript, TypeScript**
+- **React, Next.js, Vite**
+- **Tailwind CSS, Bootstrap**
+- **พื้นฐานการออกแบบ UI/UX, wireframe, component thinking**
 
 ### Backend
-- **Node.js**, Express, NestJS (พื้นฐาน)
-- RESTful API, JSON, auth (JWT/session)
-- Realtime Socket.io (พื้นฐาน)
+- **Node.js, Express, NestJS (พื้นฐาน)**
+- **RESTful API, JSON, auth (JWT/session)**
+- **Realtime Socket.io (พื้นฐาน)**
 
 ###  Database & Cloud
-- **MongoDB**, **MySQL**, **Firebase**
-- Basic **Google Cloud** services
+- **MongoDB, MySQL, Firebase**
+- **Basic Google Cloud services**
 
 ### Tools & Workflow
-- **Git**, GitHub, VS Code
-- Figma (prototype / component), Postman
+- **Git, GitHub, Visual studio code**
+- **Figma (prototype / component), Postman**
 
 ### Soft Skills
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
