@@ -52,8 +52,8 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Backend
 - **Node.js**, Express, NestJS (พื้นฐาน)
-- RESTful API, JSON, auth เบื้องต้น (JWT/session)
-- Realtime พื้นฐาน (Socket.io – เริ่มต้น)
+- RESTful API, JSON, auth (JWT/session)
+- Realtime Socket.io (พื้นฐาน)
 
 ###  Database & Cloud
 - **MongoDB**, **MySQL**, **Firebase**
