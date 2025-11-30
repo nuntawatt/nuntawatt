@@ -36,8 +36,8 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Quick Info
 - Based in **Khon Kaen, Thailand**
-- Portfolio: [CV](https://nuntawatt.github.io/my-cv/)
-- Contact: moragon.2546@gmail.com
+- Portfolio: **[CV](https://nuntawatt.github.io/my-cv/)**
+- Contact: **moragon.2546@gmail.com**
 - Learning: **React • Next.js • Node.js**
 - Open to collaborate on beginner-friendly open-source projects
 
@@ -52,8 +52,8 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 
 ### Backend
 - **Node.js, Express, NestJS (พื้นฐาน)**
-- **RESTful API, JSON, auth (JWT/session)**
-- **Realtime Socket.io (พื้นฐาน)**
+- **RESTful API, JSON, Auth (JWT/session)**
+- **Realtime Socket.io gRPC (พื้นฐาน)**
 
 ###  Database & Cloud
 - **MongoDB, MySQL, Firebase**
