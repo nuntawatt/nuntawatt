@@ -14,15 +14,15 @@
 </p>
 
 <p align="center">
-  Computer Science Student • Future Full-Stack Developer • UI/UX Enthusiast
+  Computer Science Student • Future Full-Stack Developer • UX/UI Enthusiast
 </p>
 
 ---
 
 ### About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
-My journey in web development has just begun, focusing on **frontend** and **backend** technologies,  
-with a growing interest in **UI/UX design** and **full-stack development**. (づ｡◕‿‿◕｡)づ
+My journey in web development has just begun, focusing on frontend and backend technologies,  
+with a growing interest in UI/UX design and full-stack development. (づ｡◕‿‿◕｡)づ
 <br><br>
 
 <p align="center">
