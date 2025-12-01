@@ -46,12 +46,12 @@ with a growing interest in **UI/UX design** and **full-stack development**. (づ
 ### Skills & Abilities
 ### Frontend
 - **HTML5, CSS3, JavaScript, TypeScript**
-- **React, Next.js, Vite**
+- **React, NextJS, Vite**
 - **Tailwind CSS, Bootstrap**
 - **พื้นฐานการออกแบบ UI/UX, wireframe, component thinking**
 
 ### Backend
-- **Node.js, Express, NestJS**
+- **Node.js, Express, NextJS**
 - **RESTful API, JSON, Auth (JWT/session)**
 - **Realtime Socket.io, gRPC**
 
