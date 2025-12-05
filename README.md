@@ -16,7 +16,7 @@
 <p align="center">
   Computer Science Student • Future Full-Stack Developer • UX/UI Enthusiast
 </p> 
-<br><br><br>
+<br><br>
 
 ## About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
