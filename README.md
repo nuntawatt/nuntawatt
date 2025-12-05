@@ -21,10 +21,10 @@
 <br><br>
 
 <p align="center">
-  <h1 align="center"> About Me 
+  <h1 align="center"> About Me </h1>
   Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on frontend and backend technologies,  
-with a growing interest in UX/UI design and full-stack development.</p></h1>
+with a growing interest in UX/UI design and full-stack development.</p>
 <br><br>
 
 <p align="center">
