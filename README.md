@@ -63,7 +63,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
 - เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
 
-
 # Tech
 
 <div align="left">
@@ -112,8 +111,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 </table>
 </div>
 
----
-
 # Socials
 <p align="left">
   <a href="https://www.facebook.com/nuntawat.morgorn" target="_blank" rel="noreferrer">
@@ -124,8 +121,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
     </picture>
   </a>
 </p>
-
----
 
 <details>
   <summary> Little things about me</summary>
