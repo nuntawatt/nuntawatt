@@ -19,7 +19,7 @@
 
 ---
 
-### About Me
+## About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on frontend and backend technologies,  
 with a growing interest in UX/UI design and full-stack development. (づ｡◕‿‿◕｡)づ
@@ -34,7 +34,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-### Quick Info
+## Quick Info
 - Based in **Khon Kaen, Thailand**
 - Portfolio: **[CV](https://nuntawatt.github.io/my-cv/)**
 - Contact: **moragon.2546@gmail.com**
@@ -43,7 +43,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-### Skills & Abilities
+## Skills & Abilities
 ### Frontend
 - **HTML5, CSS3, JavaScript, TypeScript**
 - **React, NextJS, Vite**
@@ -69,7 +69,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-### Tech
+## Tech
 
 <div align="left">
 <table>
@@ -121,13 +121,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ### Socials
 <p align="left">
-  <a href="https://www.github.com/nuntawatt" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
   <a href="https://www.facebook.com/nuntawat.morgorn" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
