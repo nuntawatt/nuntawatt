@@ -8,7 +8,6 @@
   <br/>
   Hi, I'm <span style="color:#22c55e;">Morgorn</span>
 </h1>
-<br><br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UX%2FUI+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8&color=A78BFA&repeat=true" alt="Typing SVG"/>
@@ -17,7 +16,7 @@
 <p align="center">
   Computer Science Student • Future Full-Stack Developer • UX/UI Enthusiast
 </p> 
-
+<br><br><br>
 
 ## About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
