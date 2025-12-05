@@ -6,11 +6,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
   <br/>
-  Hi, I'm <span style="color:#22c55e;">Nuntawat Saehuam</span>
+  Hi, I'm <span style="color:#22c55e;">Morgorn</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UI%2FUX+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8&color=A78BFA&repeat=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UX%2FUI+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8&color=A78BFA&repeat=true" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on frontend and backend technologies,  
-with a growing interest in UI/UX design and full-stack development. (づ｡◕‿‿◕｡)づ
+with a growing interest in UX/UI design and full-stack development. (づ｡◕‿‿◕｡)づ
 <br><br>
 
 <p align="center">
