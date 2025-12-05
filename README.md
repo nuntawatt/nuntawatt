@@ -33,14 +33,14 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-## Quick Info
+# Quick Info
 - Based in **Khon Kaen, Thailand**
 - Portfolio: **[CV](https://nuntawatt.github.io/my-cv/)**
 - Contact: **moragon.2546@gmail.com**
 
 ---
 
-## Skills & Abilities
+# Skills & Abilities
 ### Frontend
 - **HTML5, CSS3, JavaScript, TypeScript**
 - **React, NextJS, Vite**
@@ -66,7 +66,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-## Tech
+# Tech
 
 <div align="left">
 <table>
@@ -116,7 +116,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 
 ---
 
-### Socials
+# Socials
 <p align="left">
   <a href="https://www.facebook.com/nuntawat.morgorn" target="_blank" rel="noreferrer">
     <picture>
