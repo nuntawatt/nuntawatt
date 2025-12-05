@@ -56,11 +56,11 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 - **Realtime Socket.io, gRPC**
 
 ###  Database & Cloud
-- **MongoDB, MySQL, Firebase**
+- **MongoDB, PostgreSQL, MySQL, Firebase**
 - **Basic Google Cloud services**
 
 ### Tools & Workflow
-- **Git, GitHub, Visual studio code**
+- **GitHub, Visual studio code**
 - **Figma (prototype / component), Postman**
 
 ### Soft Skills
@@ -143,9 +143,8 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
   <summary> Little things about me</summary>
   <br/>
   <ul>
-    <li>ชอบลองของใหม่ ๆ บน Frontend ออกแบบ UI ที่ใช้งานง่าย</li>
-    <li>ตอนนี้กำลังฝึก Full-Stack ด้วย Next.js + Node.js</li>
-    <li>กำลังสนใจ Realtime apps (Socket.io) และระบบ Auth</li>
+    <li>ชอบลองอะไรใหม่ ๆ บนเว็บไซต์ แล้วออกแบบ UI ที่ใช้งานง่าย</li>
+    <li>ตอนนี้กำลังฝึก Full-Stack</li>
   </ul>
 </details>
 
