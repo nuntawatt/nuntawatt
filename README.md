@@ -23,7 +23,7 @@
 # About Me
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
 My journey in web development has just begun, focusing on frontend and backend technologies,  
-with a growing interest in UX/UI design and full-stack development. (づ｡◕‿‿◕｡)づ
+with a growing interest in UX/UI design and full-stack development.
 <br><br>
 
 <p align="center">
@@ -37,7 +37,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 # Quick Info
 - Based in **Khon Kaen, Thailand**
 - Portfolio: **[CV](https://nuntawatt.github.io/my-cv/)**
-- Contact: **moragon.2546@gmail.com**
 
 # Skills & Abilities
 ### Frontend
