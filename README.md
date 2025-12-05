@@ -48,7 +48,7 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 - **HTML5, CSS3, JavaScript, TypeScript**
 - **React, NextJS, Vite**
 - **Tailwind CSS, Bootstrap**
-- **พื้นฐานการออกแบบ UI/UX, wireframe, component thinking**
+- **พื้นฐานการออกแบบ UX/UI, wireframe, component thinking**
 
 ### Backend
 - **Node.js, Express, NextJS**
