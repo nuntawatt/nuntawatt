@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
   <br/>
-  Hi, I'm <span style="color:#22c55e;" text-3xl>Morgorn</span>
+  Hi, I'm <span style="color:#22c55e;" text-5xl>Morgorn</span>
 </h1>
 
 <p align="center">
