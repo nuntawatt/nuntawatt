@@ -7,8 +7,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
   <br/>
-  Hi, I'm <span style="color:#22c55e;" text-5xl></span>
+  Hi, I'm Morgorn<span style="color:#22c55e;" text-5xl></span>
 </h1>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UX%2FUI+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8&color=A78BFA&repeat=true" alt="Typing SVG"/>
@@ -32,14 +33,11 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120" alt="Kawaii chibi hello"/>
 </p>
 
----
 
 # Quick Info
 - Based in **Khon Kaen, Thailand**
 - Portfolio: **[CV](https://nuntawatt.github.io/my-cv/)**
 - Contact: **moragon.2546@gmail.com**
-
----
 
 # Skills & Abilities
 ### Frontend
@@ -65,7 +63,6 @@ with a growing interest in UX/UI design and full-stack development. (づ｡◕�
 - ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
 - เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
 
----
 
 # Tech
 
