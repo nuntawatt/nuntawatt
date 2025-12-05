@@ -20,7 +20,6 @@
 </p> 
 <br><br>
 
-# About Me
 <p align="center">
   <h1 align="center"> About Me </h1>
 Hello! I’m a Computer Science student who enjoys experimenting with coding and design.  
