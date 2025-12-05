@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="70" alt="hello chibi"/>
-  <br/>
-  Hi, I'm <span style="color:#22c55e;">Morgorn</span>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="50" alt="hello chibi" style="margin-bottom: -10px;"/>
+  Hi, I'm <span style="color:#9d7cd8;">Morgorn</span>
+  <img src="https://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif" width="30" alt="wave"/>
 </h1>
 
 <p align="center">
