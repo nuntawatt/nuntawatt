@@ -18,7 +18,7 @@
 <!-- <p align="center">
   Computer Science Student • Future Full-Stack Developer • UX/UI Enthusiast
 </p>  -->
-<br><br>
+<br>
 
 <p align="center">
   <h1 align="center"> About Me </h1>
