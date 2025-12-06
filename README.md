@@ -15,9 +15,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Full-Stack+Developer;UX%2FUI+Enthusiast;Always+building%2C+always+learning+%F0%9F%8C%B8&color=A78BFA&repeat=true" alt="Typing SVG"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   Computer Science Student • Future Full-Stack Developer • UX/UI Enthusiast
-</p> 
+</p>  -->
 <br><br>
 
 <p align="center">
