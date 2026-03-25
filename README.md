@@ -46,12 +46,12 @@ with a growing interest in UX/UI design and full-stack development.</p>
 - **พื้นฐานการออกแบบ UX/UI, Wireframe**
 
 ### Backend
-- **Node.js, Express, NextJS**
-- **RESTful API, JSON, Auth (JWT/ Session)**
-- **WebSocket, gRPC (Realtime)**
+- **Node.js, Express, NestJS**
+- **RESTful API, Auth (JWT/ Session)**
+- **WebSocket, gRPC**
 
 ###  Database & Cloud
-- **MongoDB, PostgreSQL, MySQL, Firebase**
+- **MongoDB, PostgreSQL, Firebase**
 - **Basic Google Cloud services**
 
 ### Tools & Workflow
@@ -59,8 +59,8 @@ with a growing interest in UX/UI design and full-stack development.</p>
 - **Figma (Prototype / Component), Postman**
 
 ### Soft Skills
-- ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ
-- เรียบเรียงปัญหาและค่อย ๆ แก้ทีละขั้น
+- ชอบทดลองและเรียนรู้สิ่งใหม่ ๆ เสมอ
+- ชอบลองผิดลองถูก มีความพยายามในการแก้ไขปัญหา
 
 # Tech
 
